@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Gabane</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 💬 Ask me about **Java, DotNet, MYSQL**
 
 - 📫 How to reach me **rohitgabane1234@gmail.com**
