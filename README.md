@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/RohitGabane/Rohit/blob/main/README.md)" alt="Hi, I'm Rohit 👋 I'm a 🚀 Developer 🚀">
+  <img src="(https://github.com/RohitGabane/Rohit/blob/main/assets/gitprofile.gif)" alt="Hi, I'm Rohit 👋 I'm a 🚀 Developer 🚀">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Gabane</h1>
